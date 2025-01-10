@@ -1,0 +1,6 @@
+type: material
+name: electron
+description: particule élémentaire
+cost: 1
+hardness: 1
+color: ffffff

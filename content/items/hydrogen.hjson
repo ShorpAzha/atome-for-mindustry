@@ -1,0 +1,6 @@
+type: material
+name: Hydrogéne
+description: premier élément du tableau périodique
+cost: 1
+hardness: 1
+color: ffffff

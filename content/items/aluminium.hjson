@@ -1,0 +1,6 @@
+type: material
+name: Aluminium
+description: 13éme élément du tableau périodique
+cost: 1
+hardness: 1
+color: ffffff

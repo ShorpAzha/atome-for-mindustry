@@ -1,0 +1,6 @@
+type: material
+name: Soufre
+description: 16éme élément du tableau périodique
+cost: 1
+hardness: 1
+color: ffffff
