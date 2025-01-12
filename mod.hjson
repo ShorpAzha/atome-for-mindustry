@@ -1,11 +1,6 @@
 name: "Atome"
-author: "šorp | Roy d'örp"
+author: "ShorpAzha"
 description:
-"Mod de physique,
-créer de base pour minetest,
-le mods est disponnible sur:
--minetest
--mindustry (WIP)
--mineclone2 (WIP)"
-version: "3.1"
+"Physics mod, with all atomes of the periodic table"
+version: "0.0.1"
 minGameVersion: "136"
